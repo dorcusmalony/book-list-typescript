@@ -30,17 +30,14 @@ This project is a simple TypeScript-based application for managing and displayin
 
 ## Setup and Usage
 
-1. **Install Dependencies**:
+ **Install Dependencies**:
    ```bash
    npm install
    ```
 
-2. **Build the Project**:
-   ```bash
-   npm run build
-   ```
 
-3. **Run the Application**:
+
+ **Run the Application**:
    - Open `index.html` in a browser to view the application.
 
 ## Development
